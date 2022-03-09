@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.cardup.my/hubfs/Contact-Us-CTA.png" alt="my banner" width=45%> </p>
+<p align="center"> <img src="https://www.cardup.my/hubfs/Contact-Us-CTA.png" alt="my banner" width=25%> </p>
 
 <h1 align="center">👋 Hi, I'm Farah Fadila Rahman</h1>
 <h3 align="center">An Informatics Engineering student from Indonesia 👩‍💻</h3>
