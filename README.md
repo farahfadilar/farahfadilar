@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://www.cardup.my/hubfs/Contact-Us-CTA.png" alt="my banner" width=25%> </p>
 
 <h1 align="center">👋 Hi, I'm Farah Fadila Rahman</h1>
-<h3 align="center">An Informatics Engineering student from Indonesia 👩‍💻</h3>
+<h3 align="center">An Informatics Engineering Student from Indonesia 👩‍💻</h3>
 
 <br><br>
 
@@ -17,7 +17,7 @@
 
 - 🔭 I’m interested in **Data Analytics & Data Science**
 
-- 🌱 I’m currently learning **Web-Based Programming**
+- 🌱 I’m currently learning **Data Mining**
 
 - 📫 How to reach me **farahfr54@gmail.com**
 
